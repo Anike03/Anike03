@@ -1,4 +1,5 @@
 ### 💫Hi , I'm Aniket !<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />:
+![images](images/work.jpg)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Web-Developer,currently studying in Humber College, Canada.
