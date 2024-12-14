@@ -1,6 +1,6 @@
 ### 💫Hi , I'm Aniket !<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />:
 
-![images](images/dbz.webp.jpg)
+![images](images/dbz.webp)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
